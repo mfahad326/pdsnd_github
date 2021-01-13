@@ -1,5 +1,5 @@
 ### Date created
-1/13/2021
+The project date is 1/13/2021
 
 ### Project Title
 Udacity Nano Degree bikeshare git hub project
