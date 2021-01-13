@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+1/13/2021
 
 ### Project Title
-Replace the Project Title
+Udacity Nano Degree bikeshare git hub project
 
 ### Description
-Describe what your project is about and what it does
+The project is to understand the git hub repo and how to update your local repo to remote repo
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+none
