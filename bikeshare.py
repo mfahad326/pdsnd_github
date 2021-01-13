@@ -19,7 +19,7 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
     while True:
-      city = input("\n Please enter the city to enquire? New York City, Chicago or Washington?\n")
+      city = input("\n Please enter the city you would like enquire? New York City, Chicago or Washington?\n")
       if city not in ('New York City', 'Chicago', 'Washington'):
         print("Your input was invalid please try again")
         continue
